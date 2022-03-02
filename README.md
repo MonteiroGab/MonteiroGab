@@ -2,9 +2,10 @@
 
 <div align="center">
  <a href="https://github.com/MonteiroGab">
- <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=MonteiroGab&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroGab&layout=compact&langs_count=7&theme=radical"/>
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=MonteiroGab&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroGab&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
